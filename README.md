@@ -1,1 +1,3 @@
-# GestureRecognition
+# Gesture Recognition
+
+Репозиторий для работы с распознаванием жестов с помощью камер
